@@ -14,7 +14,7 @@ go to plugins then click on VencordToolbox and enable it then an icon will appea
 
 `@import url(https://raw.githubusercontent.com/SubToy0nikos/LimitlessPFPs/refs/heads/main/NamePlates/import.css);`
 now click on Enable QuickCSS if its disabled then you're ready
-**MORE CLIENTS COMING SOON**
+# MORE CLIENTS COMING SOON
 
 # Why is my PFP/Nameplate/Banner not showing
 
