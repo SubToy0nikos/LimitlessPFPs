@@ -6,13 +6,14 @@
 
 go to plugins then click on VencordToolbox and enable it then an icon will appear at the top right of your discord click Open QuickCSS and paste
 
-`
-/* Avatars */
-@import url(https://raw.githubusercontent.com/SubToy0nikos/LimitlessPFPs/refs/heads/main/Avatars/import.css);
 
+`/* Avatars */
+@import url(https://raw.githubusercontent.com/SubToy0nikos/LimitlessPFPs/refs/heads/main/Avatars/import.css);
 /* Nameplates */
 @import url(https://raw.githubusercontent.com/SubToy0nikos/LimitlessPFPs/refs/heads/main/NamePlates/import.css);
 `
+
+
 now click on Enable QuickCSS if its disabled then you're ready
 **MORE CLIENTS COMING SOON**
 
